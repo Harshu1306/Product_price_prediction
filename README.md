@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal Product Price Prediction
 
 A multimodal deep learning system for predicting e-commerce product prices using **catalog text and product images**.
@@ -80,3 +81,6 @@ This is a **multimodal supervised regression** problem.
                        |
                        v
                 Predicted Price
+=======
+# Product_price_prediction
+>>>>>>> db753946c72c670ac74c41fe9ff52b6df31dd79e
